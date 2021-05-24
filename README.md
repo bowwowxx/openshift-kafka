@@ -4,7 +4,9 @@
 
 ### 2.Create KafkaBridge and Router 
 
- **Result：**
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo.jpg)   
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo01.png)  
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo02.png)    
+ **Result：**  
+ 
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo01.png)   
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo02.png)  
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo03.png)
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo04.png)   
