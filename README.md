@@ -6,7 +6,7 @@
 
  **Result：**  
  
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo01.png)   
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo02.png)  
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo03.png)
-  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/master/demo04.png)   
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/main/demo01.png)   
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/main/demo02.png)  
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/main/demo03.png)
+  ![mole](https://github.com/bowwowxx/openshift-kafka/blob/main/demo04.png)   
